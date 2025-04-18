@@ -260,3 +260,8 @@ body {
     display: inline-block;
     position: relative;
   }
+
+  .product-button:disabled {
+    background-color: blueviolet;
+    cursor: not-allowed;
+  }
