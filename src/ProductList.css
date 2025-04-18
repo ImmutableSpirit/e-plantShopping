@@ -250,3 +250,13 @@ body {
         text-align: center; /* Align text to the center */
       }
   }
+
+  /* Some header stuff */
+  h1 {
+    text-align: center;
+  }
+  
+  h1 div {
+    display: inline-block;
+    position: relative;
+  }
